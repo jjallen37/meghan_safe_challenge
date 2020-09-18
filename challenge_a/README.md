@@ -43,4 +43,4 @@ Navigate to question_3
 > Question 3: Use `cd` to navigate back to `challenge_a` directory using using an absolute path.
 
 Enter Questions A-3 answer here:  
-https://cloakmy.org/r/5i2q8b/iMa4f76rceRCcO6i7YjYORBz
+https://cloakmy.org/r/3zwzta8n/E3Uc4RzOcEIz78gUJ2MMTvH5
