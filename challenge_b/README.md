@@ -12,8 +12,8 @@ Challenge B is going to have you find a commit message from a specific commit in
 2. Find the commit message for SHA "e5a04a3"
 Enter commit message here (remove any trailing or leading spaces):
 
-Enter Challenge B answer here:  
-https://cloakmy.org/r/nymygc/7WCrCOvOkqxmIK811C8VL6sj
+Enter Challenge B answer here:  https://cloakmy.org/r/nymygc/7WCrCOvOkqxmIK811C8VL6sj
+
 
 ### Note
 I will tell you now that you could use GitHub and ctrl+f to find your answer, but I encourage you to only use bash and google.
