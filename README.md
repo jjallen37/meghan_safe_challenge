@@ -25,7 +25,7 @@ Question A: In folder question_a
 https://cloakmy.org/r/wqv4w/0Krtlj72zAJ5BjxdmcwvlR0n
 
 Question B: In folder question_b  
-https://cloakmy.org/r/wbpsc9n/BgM7lMvTbEdGdV6oxMsf6K3O
+https://cloakmy.org/r/nymygc/7WCrCOvOkqxmIK811C8VL6sj
 
 
 ## **GOOD LUCK**
