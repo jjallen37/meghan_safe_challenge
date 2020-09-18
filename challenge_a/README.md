@@ -1,7 +1,7 @@
 # Challenge A - cd
 Each of the three questions will produce one word. Combine the three words to unlock the location of the first key.   
 
-Each of the answers will be the command you type in bash.
+Each of the answers will be a **single one line command** you type in bash.
 
 **Enter challenge A answer here:**
 https://cloakmy.org/r/wqv4w/0Krtlj72zAJ5BjxdmcwvlR0n
