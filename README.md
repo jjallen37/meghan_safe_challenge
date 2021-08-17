@@ -31,3 +31,9 @@ https://cloakmy.org/r/nymygc/7WCrCOvOkqxmIK811C8VL6sj
 ## **GOOD LUCK**
 ## **(Also take care of my cat)**
 ![Test Image](https://user-images.githubusercontent.com/2042622/93620102-7c63ee80-f9a7-11ea-990a-5d58e15c6947.png)
+
+
+## Results
+
+![Victory](https://user-images.githubusercontent.com/71230900/93690323-f8902c00-faa4-11ea-9b72-a881d2a3dcf6.png)
+![Bonus Cat](https://user-images.githubusercontent.com/71230900/93690372-7c4a1880-faa5-11ea-8e58-f4eeb0cf83b0.jpg)
